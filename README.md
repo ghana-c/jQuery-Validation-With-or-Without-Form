@@ -99,12 +99,12 @@ This option is used to change the default theme of error message tooltip
 * Type : `Object`
 * Default :
   - `position` : `relative`
-  - `display` : `inline-block`,
-  - `margin-left` : `0`,
-  - `margin-top` : `0`,
-  - `width` : `auto`,
-  - `color` : `red`,
-  - `font-size` : `12px`,
+  - `display` : `inline-block`
+  - `margin-left` : `0`
+  - `margin-top` : `0`
+  - `width` : `auto`
+  - `color` : `red`
+  - `font-size` : `12px`
   - `margin-bottom` : `10px`
 
 You can override any property in style object. Please refer example below :
