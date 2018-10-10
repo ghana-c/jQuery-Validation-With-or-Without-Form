@@ -1,5 +1,0 @@
-https://github.com/ghana-c/jQuery-Validation-With-or-Without-Form/
-https://github.com/ghana-c/jQuery-Validation-With-or-Without-Form/blob/master/README.md
-https://github.com/ghana-c/jQuery-Validation-With-or-Without-Form/blob/master/example.html
-https://github.com/ghana-c/jQuery-Validation-With-or-Without-Form/blob/master/validate.js
-https://github.com/ghana-c/jQuery-Validation-With-or-Without-Form/blob/master/validate.min.js
